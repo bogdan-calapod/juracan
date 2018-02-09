@@ -1,0 +1,12 @@
+{
+    "name": "juracan",
+    "version": "0.0.1",
+    "description": "Juracan - Task management system",
+    "main": "index.js",
+    "repository": "git@github.com:bogdan-calapod/juracan.git",
+    "author": "Bogdan Marius Calapod <bogdan.marius.calapod@gmail.com>",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "express": "^4.16.2"
+    }
+}
